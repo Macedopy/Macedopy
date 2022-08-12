@@ -21,6 +21,7 @@
 </div>
   
 <div>
-  <img align="right" src=https://tenor.com/view/cat-computer-typing-fast-gif-5368357>
+  <a href=https://tenor.com/view/>
+  <img align="right" src=https://tenor.com/view/cat-computer-typing-fast-gif-5368357.gif>
 </div>
   
