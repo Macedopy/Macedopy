@@ -18,7 +18,7 @@
     <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white>
   <a href=mailto:brunomacedolemos15@gmail.com>
     <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white>
-    <div>
-      <img align="right" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif">
 </div>
+  
+<div class="tenor-gif-embed" align="right" data-postid="5368357" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/cat-computer-typing-fast-gif-5368357">Cat Computer GIF</a>from <a href="https://tenor.com/search/cat-gifs">Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
   
