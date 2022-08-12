@@ -1,7 +1,5 @@
 ### Dá uma espiadinha aqui
 
--🎞 Linguagens: 
-
 <div>
   <a href=https://github.com/Macedopy>
   <img align="center" alt="Bruno-Python-lang" src=https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white>
