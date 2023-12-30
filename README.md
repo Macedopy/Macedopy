@@ -10,6 +10,7 @@
   <img align="center" alt="Bruno-CSS-lang" src=https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white>
   <img align="center" alt="Bruno-CSS-lang" src=https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white>
   <img align="center" alt="Bruno-CSS-lang" src=https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white>
+  <img align="center" alt="Bruno-CSS-lang" src=https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white>  
 </div>
 
 
@@ -24,6 +25,6 @@
   
 <div>
   <a href=https://tenor.com/view/>
-  <img align="right" src=https://tenor.com/view/cat-computer-typing-fast-gif-5368357.gif>
+  <img align="center" src=https://tenor.com/view/cat-computer-typing-fast-gif-5368357.gif>
 </div>
   
