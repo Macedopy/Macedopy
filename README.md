@@ -1,16 +1,16 @@
-## Olá, sou Bruno! 👋
+## Hello, I'm Bruno! 👋
 
-Sou um Desenvolvedor Full Stack apaixonado por tecnologia e inovação, especializado no desenvolvimento de sistemas escaláveis, performáticos e seguros.
+I'm a Full Stack Developer passionate about technology and innovation, specializing in building scalable, high-performance, and secure systems.
 
-Tenho experiência em arquitetura de software, desenvolvimento back-end e front-end, banco de dados SQL e NoSQL, DevOps e integrações com APIs RESTful e GraphQL. Sou entusiasta de microservices, cloud computing e mensageria, sempre buscando boas práticas de código e performance.
+I have experience in software architecture, back-end and front-end development, SQL and NoSQL databases, DevOps, and integrations with RESTful and GraphQL APIs. I'm an enthusiast of microservices, cloud computing, and messaging systems, always aiming for best coding practices and performance.
 
-🚀 **Atualmente, estou aberto a oportunidades como Desenvolvedor Full Stack, Back-end Developer, Software Engineer ou Cloud Engineer.**
+🚀 **Currently, I am open to opportunities as a Full Stack Developer, Back-end Developer, Software Engineer, or Cloud Engineer.**
 
 ---
 
-### 🛠 Tecnologias & Ferramentas
+### 🛠 Technologies & Tools
 
-#### 🔹 Back-end & Arquitetura
+#### 🔹 Back-end & Architecture
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -25,7 +25,7 @@ Tenho experiência em arquitetura de software, desenvolvimento back-end e front-
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-#### 🔹 Banco de Dados
+#### 🔹 Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -37,7 +37,7 @@ Tenho experiência em arquitetura de software, desenvolvimento back-end e front-
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-#### 🔹 Versionamento e Metodologias
+#### 🔹 Version Control & Methodologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
@@ -46,8 +46,8 @@ Tenho experiência em arquitetura de software, desenvolvimento back-end e front-
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-💬 **Fique à vontade para entrar em contato e trocar ideias sobre tecnologia e inovação!** 🚀
+💬 **Feel free to reach out and exchange ideas about technology and innovation!** 🚀
