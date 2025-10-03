@@ -32,6 +32,10 @@ I have experience in software architecture, back-end and front-end development, 
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 #### 🔹 Cloud & DevOps
+AWS Cloud Practioneer certified
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/26741760-ea74-45b2-9970-399a450f7490" />
+
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
